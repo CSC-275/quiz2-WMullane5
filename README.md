@@ -66,6 +66,9 @@ Create a class definition for a <b>Cylinder</b> object which will inherit from t
 <li>display() // display area of circular end and volume of the Cylinder object using an override display function (polymorphism)</li>
 </ul></ul></ul>
 
+## UML Diagram
+<img src="UML_Class_Diagram.PNG" alt="UML Diagram" width="250">
+
 ## Interface Prototype Example
 
 ### Output
